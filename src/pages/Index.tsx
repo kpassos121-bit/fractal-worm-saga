@@ -1,7 +1,7 @@
-import SnakeGame from "@/components/SnakeGame";
+import SnakeGame3D from "@/components/SnakeGame3D";
 
 const Index = () => {
-  return <SnakeGame />;
+  return <SnakeGame3D />;
 };
 
 export default Index;
